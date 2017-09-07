@@ -1,0 +1,10 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <foaf:Person>
+        <foaf:name>Andrea Räksmörgås</foaf:name>
+        <foaf:gender>Female</foaf:gender>
+        <foaf:givenname>Andrea</foaf:givenname>
+        <foaf:family_name>Räksmörgås</foaf:family_name>
+        <foaf:mbox rdf:resource="mailto:a.r@foo.aol.se" />
+        <foaf:homepage rdf:resource="http://ar.foo.webb.se" />
+    </foaf:Person>
+</rdf:RDF>

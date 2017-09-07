@@ -1,0 +1,10 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <foaf:Person>
+        <foaf:name>Anders Svensson</foaf:name>
+        <foaf:gender>Male</foaf:gender>
+        <foaf:givenname>Anders</foaf:givenname>
+        <foaf:family_name>Svensson</foaf:family_name>
+        <foaf:mbox rdf:resource="mailto:a.s@foo.yahoo.se" />
+        <foaf:homepage rdf:resource="http://as.foo.hem.se" />
+    </foaf:Person>
+</rdf:RDF>

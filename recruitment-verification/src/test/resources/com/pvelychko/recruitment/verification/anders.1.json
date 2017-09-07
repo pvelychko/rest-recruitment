@@ -1,0 +1,13 @@
+{
+    "Anders Svensson": {
+        "name": {
+            "given": "Anders",
+            "family": "Svensson"
+        },
+        "gender": "male",
+        "email": [
+            "a.s@foo.yahoo.se"
+        ],
+        "homepage": "http://as.foo.hem.se"
+    }
+}

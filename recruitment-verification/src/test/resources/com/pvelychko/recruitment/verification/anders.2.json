@@ -1,0 +1,13 @@
+{
+    "Andrea Räksmörgås": {
+        "name": {
+            "given": "Andrea",
+            "family": "Räksmörgås"
+        },
+        "gender": "female",
+        "email": [
+            "a.r@foo.aol.se"
+        ],
+        "homepage": "http://ar.foo.webb.se"
+    }
+}
